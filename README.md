@@ -159,7 +159,7 @@ No known bugs at this time.
 
 - Victor Amonde - [Github](https://github.com/Victor-Amonde/) / [Twitter](https://twitter.com/victor_amonde)
 - Ebenezer Akhonya - [Github](https://github.com/Itsfoss0) / [Twitter](https://twitter.com/its_foss)
-
+- Bongani Baloyi
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
